@@ -17,10 +17,10 @@
     align-items: center;
     list-style-type: none;
     gap: 3em;
-    padding-top: 2em;
+    padding-top: 1.7em;
     position: fixed;
     list-style-type: none;
-    padding-left: 35%;
+    padding-left: 28%;
 }
 
 .navbar>li>a {
